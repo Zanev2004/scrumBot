@@ -1,0 +1,16 @@
+software_name,install_date,source
+MS Office Professional Plus 2019,2023-01-15,CMDB
+microsoft_office_365_proplus,2023-03-20,Endpoint Tool
+Adobe Acrobat DC,2022-11-10,Asset Manager
+adobe_acrobat_reader_dc_v2023.001,2023-05-12,Discovery Scan
+Oracle Database 19c Enterprise Edition,2022-08-05,CMDB
+oracle_db_19.3.0.0.0,2022-08-05,Endpoint Tool
+Windows Server 2019 Standard,2021-12-01,CMDB
+win_svr_2019_std,2023-02-14,Discovery Scan
+Python 3.11.4,2023-06-01,Developer Workstation
+python-3.11.4-amd64,2023-06-01,Endpoint Tool
+VMware vSphere 7.0,2022-09-20,CMDB
+vmware_vsphere_client_7.0.3,2022-09-20,Asset Manager
+Red Hat Enterprise Linux 8,2023-01-10,CMDB
+RHEL_8.6,2023-01-10,Discovery Scan
+SQL Server 2022 Developer Edition,2023-07-15,CMDB
