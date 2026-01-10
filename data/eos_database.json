@@ -1,0 +1,101 @@
+{
+  "Microsoft Office": {
+    "2016": {
+      "eos_date": "2025-10-14",
+      "source": "Microsoft Official",
+      "notes": "Reached EOS October 2025"
+    },
+    "2019": {
+      "eos_date": "2025-10-14",
+      "source": "Microsoft Official",
+      "notes": "Reached EOS October 2025"
+    },
+    "2021": {
+      "eos_date": "2026-10-13",
+      "source": "Microsoft Official"
+    },
+    "365": {
+      "eos_date": null,
+      "source": "Subscription-based",
+      "notes": "Continuously updated, no fixed EOS"
+    }
+  },
+  "Windows Server": {
+    "2012": {
+      "eos_date": "2023-10-10",
+      "source": "Microsoft Official",
+      "notes": "Already end of life"
+    },
+    "2016": {
+      "eos_date": "2027-01-12",
+      "source": "Microsoft Official"
+    },
+    "2019": {
+      "eos_date": "2029-01-09",
+      "source": "Microsoft Official"
+    },
+    "2022": {
+      "eos_date": "2031-10-14",
+      "source": "Microsoft Official"
+    }
+  },
+  "Python": {
+    "3.9": {
+      "eos_date": "2025-10-31",
+      "source": "Python Software Foundation"
+    },
+    "3.10": {
+      "eos_date": "2026-10-04",
+      "source": "Python Software Foundation"
+    },
+    "3.11": {
+      "eos_date": "2027-10-24",
+      "source": "Python Software Foundation"
+    },
+    "3.12": {
+      "eos_date": "2028-10-02",
+      "source": "Python Software Foundation"
+    }
+  },
+  "Oracle Database": {
+    "19c": {
+      "eos_date": "2027-04-30",
+      "source": "Oracle Lifetime Support Policy"
+    },
+    "21c": {
+      "eos_date": "2031-04-30",
+      "source": "Oracle Lifetime Support Policy"
+    }
+  },
+  "Adobe Acrobat": {
+    "DC": {
+      "eos_date": null,
+      "source": "Subscription-based",
+      "notes": "Continuously updated"
+    },
+    "2020": {
+      "eos_date": "2025-06-30",
+      "source": "Adobe Official"
+    }
+  },
+  "VMware vSphere": {
+    "7.0": {
+      "eos_date": "2025-04-02",
+      "source": "VMware Product Lifecycle"
+    },
+    "8.0": {
+      "eos_date": "2027-10-11",
+      "source": "VMware Product Lifecycle"
+    }
+  },
+  "Red Hat Enterprise Linux": {
+    "8": {
+      "eos_date": "2029-05-31",
+      "source": "Red Hat Product Life Cycles"
+    },
+    "9": {
+      "eos_date": "2032-05-31",
+      "source": "Red Hat Product Life Cycles"
+    }
+  }
+}
