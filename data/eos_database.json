@@ -39,6 +39,16 @@
       "source": "Microsoft Official"
     }
   },
+  "SQL Server": {
+    "2019": {
+      "eos_date": "2030-01-08",
+      "source": "Microsoft Official"
+    },
+    "2022": {
+      "eos_date": "2033-01-11",
+      "source": "Microsoft Official"
+    }
+  },
   "Python": {
     "3.9": {
       "eos_date": "2025-10-31",
